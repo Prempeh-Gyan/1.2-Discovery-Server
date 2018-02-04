@@ -26,4 +26,5 @@ Spring Cloud supports both Netflix’s Eureka service registry and Consul but th
 
 ### Running the Project (and its Dependencies)
 * Run the [`Config-Server`](https://github.com/Prempeh-Gyan/1.0-Config-Server) to serve the property file for this Discovery-Service
-* Navigate into the source directory `cd 1.2-Discovery-Service` and execute the following command: `mvn spring-boot:run`
+* Navigate into the source directory `cd 1.2-Discovery-Service` and execute the following command: 
+* `mvn spring-boot:run`
